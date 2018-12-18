@@ -1,0 +1,70 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+/* navbar */
+nav{
+  background-color: #ffbb1e;
+}
+.warna{
+  color: #1cedc6;
+}
+#text{
+  color: black;
+}
+/* akhir navbar */
+.judul{
+  text-align: left;
+}
+.waktu {
+  color: grey;
+  border-bottom: 2px solid grey;
+}
+p{
+  padding-top: 10px;
+  text-align: justify;
+}
+.gambar{
+  padding-left: 85px;
+  padding-top: 10px;
+  width: 600px;
+  height: 550px;
+}
+
+/* footer */
+footer{
+  text-align: center;
+  background-color: black;
+  margin-top: 95px;
+}
+footer p{
+color: #aaa;
+padding-top: 10px;
+padding-left: 450px;
+padding-bottom: 0px
+}
+/* akhir footer */
+
+/* beranda */
+.gambarberanda{
+  padding-left: 60px;
+  padding-top: 10px;
+}
+h5{
+  padding-top: 20px;
+}
+h3{
+padding-top: 143px;
+text-align: center;
+border-bottom: 2px solid grey;
+}
+.link{
+  border-bottom: 1px solid grey;
+}
+img{
+  transition: all 1s;
+}
+img:hover{
+  transform: scale(1,1);
+
+}
