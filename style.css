@@ -24,18 +24,23 @@ p{
   padding-top: 10px;
   text-align: justify;
 }
+/* .p{
+  padding-top: -20px;
+} */
 .gambar{
-  padding-left: 85px;
+  text-align: center;
   padding-top: 10px;
-  width: 600px;
-  height: 550px;
 }
 
+}
 /* footer */
+.bb{
+  background-color: yellow;
+}
 footer{
   text-align: center;
-  background-color: black;
   margin-top: 95px;
+  background-color: black;
 }
 footer p{
 color: #aaa;
@@ -66,5 +71,31 @@ img{
 }
 img:hover{
   transform: scale(1,1);
+}
+
+/* heroin */
+.gambarheroin{
+  text-align: center;
+  padding-top: 10px;
+}
+bpheroin{
+padding-top: 100px;
+}
+/* pilekstasi */
+.gambarpil{
+  text-align: center;
+  padding-top: 10px;
+}
+
+/* ganja */
+.gambarganja{
+  text-align: center;
+  padding-top: 10px;
+}
+
+/* teroris */
+.gambarteroris{
+  text-align: center;
+  padding-top: 10px;
 
 }
